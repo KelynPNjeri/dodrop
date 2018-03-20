@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874799622589",
+    "firebase_url": "https://taxifyapp-f4338.firebaseio.com",
+    "project_id": "taxifyapp-f4338",
+    "storage_bucket": "taxifyapp-f4338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874799622589:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874799622589-lii5ln0be2smdcetojfcp0qkpb4epa6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "1e330672c7df53e5545f36ac16a3813b7e5d4cf6"
+          }
+        },
+        {
+          "client_id": "874799622589-99d484vru8re54ht6a5rq8qi3e8pig2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgIIdmOkMNZtI7qdB1-4luSeY4KsDhppI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874799622589-99d484vru8re54ht6a5rq8qi3e8pig2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
